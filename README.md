@@ -1,6 +1,6 @@
 ## Projeto Apache Spark com Delta Lake
 
-Projeto desenvolvido para desmontração do Apache Spark Local gravando arquivos no formato Delta Lake também de forma local.
+Projeto desenvolvido para desmontração do Apache Spark Local (pyspark) gravando arquivos no formato Delta Lake também de forma local.
 
 Projeto python inicializado com o UV (https://github.com/astral-sh/uv).
 
@@ -12,9 +12,9 @@ uv venv
 uv add pyspark==3.4.0, delta-spark==2.4.0, jupyterlab
 ```
 
-Os exemplos de código para instanciar o Spark, bem como criar a manipular uma tabela delta, está no arquivo `spark-delta-lake.ipynb`.
+Os exemplos de código pyspark/python para instanciar o Spark, bem como criar a manipular uma tabela Delta Lake, está no arquivo `spark-delta-lake.ipynb`.
 
-Nota: Antes de executar o arquivo citado acima, não esqueça de selecionar o seu ambiente virtual (.venv) como Kernel do seu jupyter notebook.
+**Nota:** Antes de executar o arquivo citado acima, não esqueça de selecionar o seu ambiente virtual (.venv) como Kernel do seu jupyter notebook.
 
 ![image](https://github.com/user-attachments/assets/9f89a471-ec02-4944-9178-3f79665f74bf)
 
