@@ -9,7 +9,7 @@ Comandos utilizados:
 ```bash copy
 uv init
 uv venv
-uv add pyspark==3.5.3, delta-spark==3.2.0, jupyterlab
+uv add pyspark==3.5.3 delta-spark==3.2.0 jupyterlab
 ```
 
 Os exemplos de código pyspark/python para instanciar o Spark, bem como criar a manipular uma tabela Delta Lake, está no arquivo `spark-delta-lake.ipynb`.
