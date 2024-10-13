@@ -23,5 +23,6 @@ Links e referências sobre a compatibilidade da versão do Apache Spark (pyspark
 
 [https://docs.delta.io/latest/releases.html](https://docs.delta.io/latest/releases.html) <br>
 [https://mvnrepository.com/artifact/io.delta/delta-spark](https://mvnrepository.com/artifact/io.delta/delta-spark) <br>
-[https://github.com/delta-io/delta/releases/](https://github.com/delta-io/delta/releases/)
+[https://github.com/delta-io/delta/releases/](https://github.com/delta-io/delta/releases/) <br>
+[https://datawaybr.medium.com/como-sair-do-zero-no-delta-lake-em-apenas-uma-aula-d152688a4cc8](https://datawaybr.medium.com/como-sair-do-zero-no-delta-lake-em-apenas-uma-aula-d152688a4cc8)
 
