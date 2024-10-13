@@ -10,7 +10,7 @@ Comandos utilizados para setup do ambiente:
 uv init
 uv venv
 source .venv/bin/activate
-uv add pyspark==3.5.3 delta-spark==3.2.0 jupyterlab
+uv add pyspark==3.5.3 delta-spark==3.2.0 jupyterlab ipykernel
 ```
 
 Os exemplos de código pyspark/python para instanciar o Spark, bem como criar e manipular uma tabela Delta Lake, está no arquivo `spark-delta-lake.ipynb`.
