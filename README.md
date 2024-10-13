@@ -4,7 +4,7 @@ Projeto desenvolvido para desmontração do Apache Spark Local (pyspark) gravand
 
 Projeto python inicializado com o [UV](https://github.com/astral-sh/uv).
 
-Comandos utilizados:
+Comandos utilizados para setup do ambiente:
 
 ```bash copy
 uv init
