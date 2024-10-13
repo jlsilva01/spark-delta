@@ -284,15 +284,15 @@ wheels = [
 
 [[package]]
 name = "delta-spark"
-version = "2.4.0"
+version = "3.2.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "importlib-metadata" },
     { name = "pyspark" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/7c/2b/9f7b4759059d51bffa1e2e36c37e5ba21f12475560ca751c62e4985243a5/delta-spark-2.4.0.tar.gz", hash = "sha256:ef776e325e80d98e3920cab982c747b094acc46599d62dfcdc9035fb112ba6a9", size = 17919 }
+sdist = { url = "https://files.pythonhosted.org/packages/38/06/a64cc4e17fe959cf60dc126bf3283fc9f22fc91f000b7f3f5e465338022d/delta-spark-3.2.0.tar.gz", hash = "sha256:641967828e47c64805f8c746513da80bea24b5f19b069cdcf64561cd3692e11d", size = 22147 }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/fa/57/1ab4169a02ec876c71a0db765c2f149f435497ca2472c08188a418fbb835/delta_spark-2.4.0-py3-none-any.whl", hash = "sha256:7204142a97ef16367403b020d810d0c37f4ae8275b4997de4056423cf69b3a4b", size = 20999 },
+    { url = "https://files.pythonhosted.org/packages/3c/8e/bb778f5049aa371bf80a7a781b237eb10ef104f8736fe00d25fcfee80c2b/delta_spark-3.2.0-py3-none-any.whl", hash = "sha256:c4ff3fa7218e58a702cb71eb64384b0005c4d6f0bbdd0fe0b38a53564d946e09", size = 21186 },
 ]
 
 [[package]]
@@ -941,12 +941,12 @@ wheels = [
 
 [[package]]
 name = "pyspark"
-version = "3.4.0"
+version = "3.5.3"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "py4j" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/e3/c9/3341c9ec67ee7ada69e0fa85236f29e2a59191a90b5d4a7dc723f17fdb0f/pyspark-3.4.0.tar.gz", hash = "sha256:167a23e11854adb37f8602de6fcc3a4f96fd5f1e323b9bb83325f38408c5aafd", size = 310816775 }
+sdist = { url = "https://files.pythonhosted.org/packages/9a/90/cb80c8cf194958ab9a3242851c62fa5aef1a0b42f2d9642f1e2eca098005/pyspark-3.5.3.tar.gz", hash = "sha256:68b7cc0c0c570a7d8644f49f40d2da8709b01d30c9126cc8cf93b4f84f3d9747", size = 317304325 }
 
 [[package]]
 name = "python-dateutil"
@@ -1236,9 +1236,9 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
-    { name = "delta-spark", specifier = "==2.4.0" },
+    { name = "delta-spark", specifier = "==3.2.0" },
     { name = "jupyterlab", specifier = ">=4.2.5" },
-    { name = "pyspark", specifier = "==3.4.0" },
+    { name = "pyspark", specifier = "==3.5.3" },
 ]
 
 [[package]]

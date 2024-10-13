@@ -13,3 +13,10 @@ uv add pyspark==3.4.0, delta-spark==2.4.0, jupyterlab
 ```
 
 Os exemplos de código para instanciar o Spark, bem como criar a manipular uma tabela delta, está no arquivo `spark-delta-lake.ipynb`.
+
+Links e referências sobre a compatibilidade da versão do Apache Spark (pyspark) e Delta Lake.
+
+[https://docs.delta.io/latest/releases.html](https://docs.delta.io/latest/releases.html)
+[https://mvnrepository.com/artifact/io.delta/delta-spark](https://mvnrepository.com/artifact/io.delta/delta-spark)
+[https://github.com/delta-io/delta/releases/](https://github.com/delta-io/delta/releases/)
+
