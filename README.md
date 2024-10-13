@@ -1,4 +1,4 @@
-## Projeto Apache Spark com delta lake
+## Projeto Apache Spark com Delta Lake
 
 Projeto desenvolvido para desmontração do Apache Spark Local gravando arquivos no formato Delta Lake também de forma local.
 
