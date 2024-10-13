@@ -12,7 +12,7 @@ uv venv
 uv add pyspark==3.5.3 delta-spark==3.2.0 jupyterlab
 ```
 
-Os exemplos de código pyspark/python para instanciar o Spark, bem como criar a manipular uma tabela Delta Lake, está no arquivo `spark-delta-lake.ipynb`.
+Os exemplos de código pyspark/python para instanciar o Spark, bem como criar e manipular uma tabela Delta Lake, está no arquivo `spark-delta-lake.ipynb`.
 
 **Nota:** Antes de executar o arquivo citado acima, não esqueça de selecionar o seu ambiente virtual (.venv) como Kernel do seu jupyter notebook.
 
