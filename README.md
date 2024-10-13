@@ -1,6 +1,6 @@
 ## Projeto Apache Spark com Delta Lake
 
-Projeto desenvolvido para desmontração do Apache Spark Local (pyspark) gravando arquivos no formato Delta Lake também de forma local.
+Projeto desenvolvido para demonstração do Apache Spark Local (pyspark) gravando arquivos no formato Delta Lake também de forma local.
 
 Projeto python inicializado com o [UV](https://github.com/astral-sh/uv).
 
