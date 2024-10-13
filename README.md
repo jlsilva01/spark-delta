@@ -12,4 +12,4 @@ uv venv
 uv add pyspark==3.4.0, delta-spark==2.4.0, jupyterlab
 ```
 
-Os exemplos de código para instanciar o Spark, bem como criar a manipular uma tabela delta, está no arquivo ´spark-delta-lake-colab.ipynb´.
+Os exemplos de código para instanciar o Spark, bem como criar a manipular uma tabela delta, está no arquivo `spark-delta-lake-colab.ipynb`.
