@@ -9,6 +9,7 @@ Comandos utilizados para setup do ambiente:
 ```bash copy
 uv init
 uv venv
+source .venv/bin/activate
 uv add pyspark==3.5.3 delta-spark==3.2.0 jupyterlab
 ```
 
