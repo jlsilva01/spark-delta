@@ -26,6 +26,9 @@ Os exemplos de código pyspark/python para instanciar o Spark, bem como criar e 
 
 ![image](https://github.com/user-attachments/assets/9f89a471-ec02-4944-9178-3f79665f74bf)
 
+**Nota 2:** O arquivo `.ipynb` (jupyter notebook) foi executado dentro do VS Code.
+
+
 Links e referências sobre a compatibilidade da versão do Apache Spark (pyspark) e Delta Lake:
 
 [https://docs.delta.io/latest/releases.html](https://docs.delta.io/latest/releases.html) <br>
