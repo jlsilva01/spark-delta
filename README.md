@@ -2,7 +2,7 @@
 
 Projeto desenvolvido para demonstração do Apache Spark Local (pyspark) gravando arquivos no formato Delta Lake também de forma local.
 
-Recomendo que utilize o WSL do Windows 11 ou alguma outra distro Linux.
+Utilize o WSL do Windows 11 ou alguma outra distro Linux. Não utilize ambiente Windows, pois será necessário efetuar várias configurações adicionais para funcionar.
 
 Para este laboratório foi utilizado o Linux Ubuntu 24.04.
 
